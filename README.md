@@ -1,1 +1,0 @@
-# optimization-of-search-engine-challenge-01
